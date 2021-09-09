@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    public static void nextFunc()
+    {
+    	System.out.println( "Hello World!" );
+    }
 }
